@@ -10,9 +10,12 @@
 <h3> 🇧🇷 </h3>
 </div>
 
+Aqui está um agrupado de exercícios que desenvolvi como parte da nota final para o curso de Desenvolvimento de Sistemas da grande instituição de ensino brasileira SENAC São Paulo. Todos os códigos foram corrigidos pelos tutores dos cursos.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>
 </div>
+
+Here is a group of exercises that I developed as part of the final grade for the Systems Development course at the respected Brazilian educational institution SENAC São Paulo. All codes were corrected by course tutors.
